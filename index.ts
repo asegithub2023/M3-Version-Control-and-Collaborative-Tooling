@@ -9,7 +9,7 @@ import { EnrollmentStatus, describeEnrollment } from "./models/enrollment.model"
 
 
 const student: Student = {
-id: "STU-001B",
+id: "STU-001-B-CONFLICT",
 name: "Hana Tadesse",
 enrollmentDate: Temporal.Now.instant(),
 };
